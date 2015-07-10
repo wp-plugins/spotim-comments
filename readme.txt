@@ -66,7 +66,7 @@ With Spot.IM, we’re on a mission to create a more involved and dedicated commu
 
 == Frequently Asked Questions ==
 
-Export data was finished but the donwload of exported file didn't start ?
+Export data was finished but the donwload of exported file didn't start?
     
     Check the permission of the file /plugin_dir/sample-data/export.json or copy export text from textarea section on the fininsh step.
 
@@ -74,7 +74,7 @@ If I don't set Spot’s ID what will happen?
 	
 	The standart comment form will be used.
 
-How I can get Spot’s ID ?
+How I can get Spot’s ID?
    
     You can get it sending them exported data to support@spot.im alongside contact details.
 
@@ -86,12 +86,10 @@ How I can change the selected owner?
 
    You can remove the plugin and install it again.
    
-Export data stop at X(any number)% ?
+Export data stop at X(any number)%?
    
     It happens when you have too many comments and memory of the server does not lack. Contact with your hosting provider support and ask them to increase php memory limit. Or you if you have PHP knowledge you can put code "define( 'WP_MEMORY_LIMIT', '256M' );" in your wp-config.php file.
 	You can read more here https://codex.wordpress.org/Editing_wp-config.php#Increasing_memory_allocated_to_PHP
-	
-
 	
 Which browsers will support my Spot?
 	
@@ -137,6 +135,7 @@ How do I change the language of my Spot’s interface?
 
 
 How much does it cost?
+
 	Spot.IM is free! We care deeply about returning the power of content to publishers, and we want our product’s pricing to reflect that.
 
 	

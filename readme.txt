@@ -3,7 +3,7 @@ Contributors:VPETROSYAN, BenSh
 Tags: comments, spotim, ajax
 Requires at least: 3.8
 Tested up to: 4.2
-Stable tag: 4.1.2
+Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 

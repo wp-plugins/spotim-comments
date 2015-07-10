@@ -64,53 +64,53 @@ With Spot.IM, we’re on a mission to create a more involved and dedicated commu
 
 	For more information, please visit our website – Spot.IM 
 
-== FAQ ==
+== Frequently Asked Questions ==
 
-Export data was finished but the donwload of exported file didn't start ?
+= Export data was finished but the donwload of exported file didn't start ?
     
     Check the permission of the file /plugin_dir/sample-data/export.json or copy export text from textarea section on the fininsh step.
 
-If I don't set Spot’s ID what will happen?
+= If I don't set Spot’s ID what will happen?
 	
 	The standart comment form will be used.
 
-How I can get Spot’s ID ?
+= How I can get Spot’s ID ?
    
     You can get it sending them exported data to support@spot.im alongside contact details.
 
-If I change Spot’s ID or selected owner what will be happen?
+= If I change Spot’s ID or selected owner what will be happen?
 
    Spot’s comments won't show your site comments that was saved by old Spot’s ID, only new comments will be shown.
 
-How I can change the selected owner?
+= How I can change the selected owner?
 
    You can remove the plugin and install it again.
    
-Export data stop at X(any number)% ?
+= Export data stop at X(any number)% ?
    
     It happens when you have too many comments and memory of the server does not lack. Contact with your hosting provider support and ask them to increase php memory limit. Or you if you have PHP knowledge you can put code "define( 'WP_MEMORY_LIMIT', '256M' );" in your wp-config.php file.
 	You can read more here https://codex.wordpress.org/Editing_wp-config.php#Increasing_memory_allocated_to_PHP
 	
 
 	
-Which browsers will support my Spot?
+= Which browsers will support my Spot?
 	
 	All popular browsers support Spot! (Note: Need to consult developers on this)
 
-How do I moderate content on my Spot?
+= How do I moderate content on my Spot?
 
 	Spot.IM offers several moderation tools and options, all of which are either automatic, manual, or user-based. You can find all the information about our moderation tools here and also contact us at support@spot.im for any help, offers, or suggestions.  
 
-How do I access Spot analytics?
+= How do I access Spot analytics?
 
 	This feature, coming soon, will be available on our Manage page, which is also linked on the WordPress dashboard under the Spot.IM Plugin page. 
 
-How does the Newsfeed work? Can I control what’s on it?
+= How does the Newsfeed work? Can I control what’s on it?
 	
 	The Newsfeed works through an algorithm that determines what trending and recent content on your website your users need to see. If you have questions about how that works in more depth, please contact us at support@spot.im.
 
 
-What is SEO and does Spot support it? 
+= What is SEO and does Spot support it? 
 
 	SEO stands for Search Engine Optimization. When you’re asking if Spot.IM has SEO, you’re asking if Spot allows all of your User Generated Content (UGC) to be indexed on your site so that a search engine like Google, or Bing, can read it. 
 
@@ -119,14 +119,14 @@ What is SEO and does Spot support it?
 	With Spot.IM, your content is your content, no matter if its an article you wrote or a user conversation in the comment section. This gives your website improved visibility in every way. 
 
 
-How do I get mobile working for my Spot?
+= How do I get mobile working for my Spot?
 
 	Spot.IM is automatically mobile web compatible. All you need to do is set it up for your WordPress website using the Plugin instructions above, and you’ll have a beautiful, responsive, slick mobile commenting and Newsfeed interface that works on all phones and tablets.
 
 	No extra work necessary!
 
 
-How do I change the language of my Spot’s interface?
+= How do I change the language of my Spot’s interface?
 
 	Currently the Spot’s interface is partially translated into 16 languages: English, German, Spanish, French, Hebrew, Hungarian, Italian, Japanese, Korean, Dutch, Portuguese, Romanian, Russian, Turkish, Ukrainian and Chinese. Soon to be fully translated.
 
@@ -136,16 +136,16 @@ How do I change the language of my Spot’s interface?
 	Yes. To go along with other moderation tools, Spot.IM offers extensive word filter, blacklist, and spam control tools. 
 
 
-How much does it cost?
+= How much does it cost?
 	Spot.IM is free! We care deeply about returning the power of content to publishers, and we want our product’s pricing to reflect that.
 
 	
-How do I update my Spot?
+= How do I update my Spot?
 
 	Like with other WordPress plugins, updating your Spot is easy. When an update is available, you’ll receive a notification on your site’s WordPress dashboard. From that dashboard, you’ll be able to quickly and easily update Spot.
 
 
-Where can I see a Spot working live to get a better idea of it?
+= Where can I see a Spot working live to get a better idea of it?
 
 	You can see some great live Spots at:
 	www.cgsociety.org

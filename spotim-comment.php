@@ -13,11 +13,11 @@
  * @package           Spot_IM_COMMENT
  *
  * @wordpress-plugin
- * Plugin Name:       Spot_IM Comment
+ * Plugin Name:       Spot.IM Comments
  * Plugin URI:        https://www.spot.im/
  * Description:       The official temporary SpotIM plugin
  * Version:           1.0.0
- * Author:            Spot_IM
+ * Author:            Spot.IM
  * Author URI:        https://www.spot.im/
  * License:           N/A
  * License URI:       N/A
